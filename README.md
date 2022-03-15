@@ -1,3 +1,11 @@
 # snakegame
 
-This is a snake game created using Python. You can use your arrow keys to move the snake. Avoid colliding with the body of the snake or the walls; it ends the game. Score as much as you can and enjoy!
+This is a classic snake game created using Python. 
+
+Rules of the game:
+
+1. Avoid colliding with the walls
+2. Avoid colliding with the snake's body 
+3. Eat the food along the way to score points 
+
+Score as much as you can and enjoy!
